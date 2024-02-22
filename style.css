@@ -70,15 +70,15 @@ p {
     color: #555; /* Dark gray for better readability */
 }
 
-footer {
-    background-color: #3498DB; /* Deep blue */
-    color: #fff; /* White text */
-    text-align: center;
-    padding: 1em 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
+/*footer {*/
+/*    background-color: #3498DB; !* Deep blue *!*/
+/*    color: #fff; !* White text *!*/
+/*    text-align: center;*/
+/*    padding: 1em 0;*/
+/*    position: fixed;*/
+/*    bottom: 0;*/
+/*    width: 100%;*/
+/*}*/
 
 .project {
     /*background-color: #F9F9F9; !* Light gray background for each project *!*/

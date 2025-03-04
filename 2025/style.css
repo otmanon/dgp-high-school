@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #3498DB; /* Deep blue */
+    background-color: #2a8828; /* Deep  green*/
     color: #fff; /* White text */
     text-align: center;
     padding: 1em 0;
@@ -56,7 +56,7 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #D5E8F3; /* Light blue-gray */
+    background-color: #a1e9ab; /* Light green-gray */
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
